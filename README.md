@@ -1,11 +1,13 @@
 # Developing a Coupled Matrix-Tensor Factorization Model in Python to Analyze Mobility Data for Disaster Response
-2022-23 Synopsys Research Project
+2022-23 Synopsys Science Fair Research Project
 
 Project Number 124-H10-71
 
 Lisa Fung • Saratoga High School (Competed under Los Gatos High School for Advanced Science Research class)
 
 Mentored by Evgeny Noi, Graduate Student Researcher at UC Santa Barbara Department of Geography
+
+Awarded: Honorable Mention, RRI Physical Science and Engineering Category
 
 ### Poster
 
