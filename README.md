@@ -5,6 +5,8 @@ Project Number 124-H10-71
 
 Lisa Fung • Saratoga High School (Competed under Los Gatos High School for Advanced Science Research class)
 
+Mentored by Evgeny Noi, Graduate Student Researcher at UC Santa Barbara Department of Geography
+
 ### Poster
 
 ![Poster_CMTF_mobility_analysis_Lisa_Fung](https://user-images.githubusercontent.com/71937811/229308719-6ca408b7-cb12-4bbf-bf52-4ea2ffd52332.png)
