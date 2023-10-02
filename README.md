@@ -7,7 +7,9 @@ Lisa Fung • Saratoga High School (Competed under Los Gatos High School for Adv
 
 Mentored by Evgeny Noi, Graduate Student Researcher at UC Santa Barbara Department of Geography
 
-Awarded: Honorable Mention, RRI Physical Science and Engineering Category
+Awards: **Regeneron Science Talent Search Scholar (2023)**
+
+Honorable Mention, RRI Physical Science and Engineering Category
 
 ### Poster
 
